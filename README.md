@@ -1,16 +1,2 @@
-👋 Hi, I’m @komalkaushikr
-👀 I’m interested in data science, AI, and creative tech projects
+I am Koaml and I am interested in all things data and machine learning systems. I am currently studying  Data Science. In my free time, I like to read, write essays, hike, travel, and explore different music genres over a cup of tea (In no particular order).
 
-🌱 I’m currently learning Python, machine learning, and French
-
-💞️ I’m looking to collaborate on beginner-friendly open source projects and data science mini-projects
-
-📫 How to reach me: komalkaushikr@gmail.com
-
-😄 Pronouns: she/her
-
-⚡ Fun fact: I love turning complex things into simple ideas — and I make a terrific cup of coffee!
-<!---
-komalkaushikr/komalkaushikr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
