@@ -2,7 +2,7 @@
 
 *"Interested in all things data and machine learning. I read, write essays, hike, travel, and explore music, usually over coffee."*
 
-KOMAL KAUSHIK · DATA SCIENTIST · DELHI · MCA '26 · OPEN TO ROLES
+KOMAL KAUSHIK · DATA · DELHI · MCA '26 · OPEN TO ROLES
 
 ---
 
