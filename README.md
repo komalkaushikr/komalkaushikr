@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://healthinsuranceclaimprediction.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demos-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/komalkaushik22"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:komalkaushik.ds@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ```python
