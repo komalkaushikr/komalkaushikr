@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Scientist · ML Engineer</b> &nbsp;·&nbsp; Delhi, India &nbsp;·&nbsp; <b>Open to Roles</b><br>
-  <i>"Models that ship — with explainability and a business case."</i>
+  <i>"Models that ship - with explainability and a business case."</i>
 </p>
 
 <p align="center">
