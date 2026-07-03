@@ -65,4 +65,4 @@ komal = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkaushikr&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center"><i>"Data is the new oil — but refining it is the hardest part."</i></p>
+<p align="center"><i>"Data is the new oil - but refining it is the hardest part."</i></p>
