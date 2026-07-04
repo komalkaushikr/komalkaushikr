@@ -49,8 +49,10 @@ komal = {
 | Project | What it does | Stack | Live |
 |---|---|---|---|
 | 🌸 [**FedFlower**](https://github.com/komalkaushikr/FedFlower) | Federated-learning CNN that **beats the centralized baseline by +3.90 pts (91.82% Top-1)** at ~1/5 the per-client storage. Privacy-preserving; deployed on Android, on-device. | `TensorFlow` `Federated Learning` `Android` | — |
+| 🧬 [**smote-reproduction**](https://github.com/komalkaushikr/smote-reproduction) | From-scratch NumPy reproduction of **SMOTE (Chawla et al., 2002)** — rebuilds the paper's ROC/AUC protocol on Pima Indian Diabetes. AUCs land within **~0.01 of the paper**; matches imbalanced-learn to **0.001**. | `NumPy` `scikit-learn` `Paper Reproduction` | — |
 | 💳 [**Credit-Decision-Intelligence-System**](https://github.com/komalkaushikr/Credit-Decision-Intelligence-System) | Loan approval optimized for **profit, not accuracy** — per-loan cost-matrix threshold (not 0.5). **~$49M** more holdout profit than the conservative baseline. | `XGBoost` `SHAP` `Streamlit` | [▶ Demo](https://credit-decision-intelligence-system.streamlit.app/) |
 | 🏥 [**health_insurance_claim_prediction**](https://github.com/komalkaushikr/health_insurance_claim_prediction) | Predicts claim costs at **R² 0.960 / MAE \$1,053**; SHAP surfaces cost drivers (smoking, heart disease, age/BMI) for underwriters. | `XGBoost` `SHAP` `Streamlit` | [▶ Demo](https://healthinsuranceclaimprediction.streamlit.app/) |
+
 
 ---
 
