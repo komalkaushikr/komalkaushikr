@@ -1,7 +1,7 @@
 <h2 align="center">Komal Kaushik</h2>
 
 <p align="center">
-  <b>Data Science · Machine Learning</b> &nbsp;·&nbsp; Delhi, India &nbsp;·&nbsp; <b>Open to Roles</b><br>
+  <b>Data Science · Machine Learning</b> &nbsp;·&nbsp; <b>Open to Roles</b><br>
   <i>"Models that ship - with explainability and a business case."</i>
 </p>
 
@@ -19,8 +19,7 @@ komal = {
     "focus":     ["applied ML", "federated learning", "cost-sensitive modeling"],
     "ml":        ["XGBoost", "scikit-learn", "TensorFlow", "SHAP", "SMOTE"],
     "ships":     ["Streamlit", "Flask", "Git"],
-    "currently": "building a 200+ row Indian DS/ML job-market dataset",
-    "mantra":    "raw data -> deployed, explainable product",
+    "currently": "building a 200+ row Indian DS/ML job-market dataset"
 }
 ```
 
